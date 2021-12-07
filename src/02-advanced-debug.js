@@ -24,5 +24,7 @@ function goodPractices() {
   }
 }
 
+debugger
+
 // then, call the function so it runs!
 goodPractices()
